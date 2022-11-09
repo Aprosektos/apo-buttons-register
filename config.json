@@ -1,0 +1,57 @@
+{
+    "bot": {
+        "token": "MTAzOTgwNDU3NjA3NDg0NjIyOA.GwtJeV.6kTcWpE3KU-Cy4rXLL4ce9gC6RZ1Cb-wTSkH3I",
+        "owner": "719117042904727635",
+        "prefix": "!",
+        "BotStatus": "apo was here ? ❤️",
+        "BotFooter": "developed by apo ?",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "1039881818066927716",
+        "isimlog": "1039532317456203786",
+        "rollog": "1039881620343246888",
+        "kayıtlog": "1039881474138185809"
+    },
+    "roles": {
+        "booster": "719117042904727635",
+        "vip": "1039532222916595743",
+        "sponsor": "1039532220722987120",
+        "müzisyen": "1039532257267961906",
+        "team": "1039532245003796480"
+    },
+    "channels": {
+        "chat": "1039532420480905216",
+        "voicechannel": "1039532393318584352",
+        "welcomechannel": "1039532346656964648",
+        "rules": "1039532367762702356"
+    },
+    "registration": {
+        "unregistered": "1039532247906263040",
+        "man": ["1039532246849294376", "1039588917776765050"],
+        "woman": ["1039532245876228106", "1039588965671501834"],
+        "botcommands": "1039532082193506314",
+        "staff": "1039532198744821771",
+        "GuilDTag": "☆",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1039532249722392647",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "oneman": "1039532246849294376",
+        "onewoman": "1039532245876228106",
+        "GuildDiscrim": "",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1038803565138944100",
+        "GuilDName": "☆ RAVELİON",
+        "GuildOwnerRole": ["1039532082193506314", "1039532083174969367","1039532084324212808","1039532085880295444"]
+    },
+    "emojis": {
+        "tada": "<a:2659tadapurple:1029402879343210636>",
+        "yes": "<:onay:1039778528943677480>",
+        "no": "<:no_toasty:1039603137343930368>"
+        }
+    } 
